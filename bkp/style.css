@@ -222,8 +222,7 @@ footer {
 }
 
 /* MEDIA QUERIES no terminado, porque no llegué a tiempo e iba a tardar bastante mas en hacer una primera entrega */
-
-@media only screen and (max-width: 600px) { 
+/* @media only screen and (max-width: 600px) {
   nav {
     flex-wrap: wrap;
   }
@@ -231,18 +230,14 @@ footer {
     text-align: center;
   }
 
-  .lineup{
-    height: fit-content;
-  }
-
   .contenedorcards {
     flex-direction: column;
+    height: 80%;
     justify-content: space-around;
   }
 
-
   .cardslineup {
-    width: 100%;
+    width: 45%;
     background: none;
   }
 
@@ -255,4 +250,4 @@ footer {
     height: 30%;
   }
   
-} 
+} */
